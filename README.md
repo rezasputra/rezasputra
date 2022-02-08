@@ -1,6 +1,14 @@
 ### Hi there 👋 My Name is Reza
 
-Welcome to my playground
+Welcome to my playground, Please visit my other publication too: 
++ My RPubs
+  - [Instant Noodle Analysis](https://rpubs.com/rezasputra/instant_noodle_analysis)
+  - [Youtube US Analytics](https://rpubs.com/rezasputra/Youtube_Analytics)
+  - [Bank Marketing Analysis](https://rpubs.com/rezasputra/Bank_Marketing_Analysist)
+
++ My Shiny Apps
+  - [Youtube Indonesia Trend Analysis](https://rezasputra.shinyapps.io/Youtube_Indonesia_Trend_Analysis/)
+  - [Netflix Exploratory](https://rezasputra.shinyapps.io/Netflix_Exploratory/)
 
 <!--
 **rezasputra/rezasputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
